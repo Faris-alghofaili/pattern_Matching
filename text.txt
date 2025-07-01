@@ -1,0 +1,4 @@
+In computer science, string searching algorithms, sometimes called string matching algorithms, 
+are an important class of string algorithms that try to find a place where one or several strings 
+(also called patterns) are found within a larger string or text. Today, efficient search is essential 
+in various applications from text editing to biological sequence analysis and information retrieval.
